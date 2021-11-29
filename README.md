@@ -1,6 +1,6 @@
 ### Hi there, I'm Hans - aka [hkimchii] 👋
 
-## I'm a Husband, soon to be a Father, Business Owner, Aspiring Developer, and a Forever Learner!
+## I'm a Husband, Business Owner, Aspiring Developer, and a Forever Learner!
 
 - 👔 I'm a small business owner by day, and a student by night, learning something new everyday!
 - 🌱 I'm currently learning frontend web development, and hope to move into other programming languages soon!
